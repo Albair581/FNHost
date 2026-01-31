@@ -61,7 +61,7 @@
         "accepted_items": "有效期限1~2月以上的 白米、麵條、穀粉麥片、冬粉、罐裝成長奶粉（7～12歲）、罐頭、調理包、肉魚鬆、肉乾、餅乾、八寶粥、乾貨、米粉、調味品、食用油、抹醬、堅果、沖泡飲品、飲品",
         "notes": "請先填寫表單來捐贈： https://www.atf.tw/atf/public/donation/donate_add/ 。",
         "maps_url": "https://maps.apple/p/s52A7DRzPBCyPR",
-        "update_time": "46048.6875"
+        "update_time": "2026-01-27 10:00:00"
       }
     ]
   },
@@ -5256,7 +5256,7 @@
         "accepted_items": "有效期限6個月以上的 2kg白米（真空）、直線麵條、肉類罐頭、肉鬆（罐/袋）、保久乳、豆米漿、肉類調理包（盒）、沖泡穀粉/麥片（袋）",
         "notes": "建議先打電話確認再進行捐贈、寄送。捐贈請填寫表單： https://www.chaca.org.tw/OnePage.aspx?tid=179 。詳情請見https://www.chaca.org.tw/OnePage.aspx?tid=177 。",
         "maps_url": "https://maps.apple/p/ermsmb6Ugyr_hY",
-        "update_time": "46048.77083"
+        "update_time": "2026-01-26 18:30:00"
       },
       {
         "name": "新竹辦事處（辦事處）",
@@ -5329,7 +5329,443 @@
     ]
   },
   {
+    "org": "家扶基金會",
+    "branches": [
+      {
+        "name": "台北家扶中心（中心）",
+        "address": "106 台北市大安區樂利路97號1樓",
+        "hours": "星期一～六 08:00~17:00",
+        "phone": "02-2736-2085",
+        "fax": "02-2733-2450",
+        "coordinates": [
+          25.0253553,
+          121.5523024
+        ],
+        "transportation": "公車：568、18、685、284、211、和平幹線、902、72、207、敦化幹線、556、680，步行約4分鐘",
+        "parking": "無",
+        "accepted_items": "未拆封、有效期6個月以上且標示完整的可儲藏類食品。如：米、麵條、罐頭、醬油、食用油、保久乳、餅乾、沖泡飲、奶粉、泡麵等。",
+        "notes": "捐贈前請先打電話確認。可以宅配或親送的方式捐贈物資。參考官網： https://www.ccf.org.tw/56/donation/Nzg2 。",
+        "maps_url": "https://maps.apple/p/GYjVXsChTaCcVD",
+        "update_time": "2026-01-29 14:15:00"
+      },
+      {
+        "name": "南港服務處（服務處）",
+        "address": "115 台北市南港區重陽路132號1樓",
+        "hours": "星期一～六 08:00~17:00",
+        "phone": "02-2789-3810",
+        "fax": "無",
+        "coordinates": [
+          25.0569253,
+          121.6000927
+        ],
+        "transportation": "無",
+        "parking": "無",
+        "accepted_items": "未拆封、有效期6個月以上且標示完整的可儲藏類食品。如：米、麵條、罐頭、醬油、食用油、保久乳、餅乾、沖泡飲、奶粉、泡麵等。",
+        "notes": "捐贈前請先打電話確認。可以宅配或親送的方式捐贈物資。參考官網： https://www.ccf.org.tw/56/donation/Nzg2 。",
+        "maps_url": "https://maps.apple/p/682bzxnjCrBZJE",
+        "update_time": "2026-01-29 14:15:00"
+      },
+      {
+        "name": "士林服務處（服務處）",
+        "address": "111 台北市士林區德行東路314號1樓",
+        "hours": "星期一～六 08:00~17:00",
+        "phone": "02-2837-0576",
+        "fax": "無",
+        "coordinates": [
+          25.1101343,
+          121.5369244
+        ],
+        "transportation": "公車：206、280、602、紅15、通勤9，步行約1分鐘",
+        "parking": "無",
+        "accepted_items": "未拆封、有效期6個月以上且標示完整的可儲藏類食品。如：米、麵條、罐頭、醬油、食用油、保久乳、餅乾、沖泡飲、奶粉、泡麵等。",
+        "notes": "捐贈前請先打電話確認。可以宅配或親送的方式捐贈物資。參考官網： https://www.ccf.org.tw/56/donation/Nzg2 。",
+        "maps_url": "https://maps.apple/p/kdzDWpZWg~13YW",
+        "update_time": "2026-01-29 14:15:00"
+      },
+      {
+        "name": "新北市家扶中心（中心）",
+        "address": "220 新北市板橋區忠孝路214號",
+        "hours": "星期一～六 08:00~17:00",
+        "phone": "02-2959-2085",
+        "fax": "02-2961-9195",
+        "coordinates": [
+          25.0027241,
+          121.4661475
+        ],
+        "transportation": "公車：福德里 651、667，步行約2分鐘 & 後埔國小 651、667、813，步行約4分鐘",
+        "parking": "無",
+        "accepted_items": "未拆封、有效期6個月以上且標示完整的可儲藏類食品。如：米、麵條、罐頭、食用油、調理包、保久乳、餅乾、沖泡飲、泡麵等。",
+        "notes": "捐贈前請先打電話確認。可以宅配或親送的方式捐贈物資。參考官網： https://www.ccf.org.tw/37/qa/MTk4 。",
+        "maps_url": "https://maps.apple/p/v5PY~8hWxpWcDF",
+        "update_time": "2026-01-29 16:30:00"
+      },
+      {
+        "name": "三重服務處（服務處）",
+        "address": "241 新北市三重區重新路四段59號1樓",
+        "hours": "星期一～六 08:00~17:00",
+        "phone": "02-2982-5101",
+        "fax": "無",
+        "coordinates": [
+          25.0575918,
+          121.4872768
+        ],
+        "transportation": "公車：菜寮（重新路） 622、14、292、227、616、292副、636、638、639、62、820、264、857、801、803、F301、111、忠孝幹線、662",
+        "parking": "無",
+        "accepted_items": "未拆封、有效期6個月以上且標示完整的可儲藏類食品。如：米、麵條、罐頭、食用油、調理包、保久乳、餅乾、沖泡飲、泡麵等。",
+        "notes": "捐贈前請先打電話確認。可以宅配或親送的方式捐贈物資。參考官網： https://www.ccf.org.tw/37/qa/MTk4 。",
+        "maps_url": "https://maps.apple/p/JL.KZnQsPnGsVp",
+        "update_time": "2026-01-29 16:45:00"
+      },
+      {
+        "name": "鶯歌服務處（服務處）",
+        "address": "239 新北市鶯歌區國慶街115巷22號",
+        "hours": "星期一～六 08:00~17:00",
+        "phone": "02-2678-0816",
+        "fax": "無",
+        "coordinates": [
+          24.9544825,
+          121.3512683
+        ],
+        "transportation": "公車：南鶯國慶115巷口 917、F651、F656、幸福巴士F652延伸線、F652、731 & 中鶯 702、981、851、939副 & 文昌街口 702、917、981、731、939副",
+        "parking": "無",
+        "accepted_items": "未拆封、有效期6個月以上且標示完整的可儲藏類食品。如：米、麵條、罐頭、食用油、調理包、保久乳、餅乾、沖泡飲、泡麵等。",
+        "notes": "捐贈前請先打電話確認。可以宅配或親送的方式捐贈物資。參考官網： https://www.ccf.org.tw/37/qa/MTk4 。",
+        "maps_url": "https://maps.apple/p/4B5w0wayg2JabR",
+        "update_time": "2026-01-29 16:59:59.712000"
+      },
+      {
+        "name": "新店服務處（服務處）",
+        "address": "231 新北市新店區北宜路一段107之2號",
+        "hours": "星期一～六 08:00~17:00",
+        "phone": "02-2917-2075",
+        "fax": "無",
+        "coordinates": [
+          24.9552107,
+          121.5394787
+        ],
+        "transportation": "公車：文山國中 647、849、644、930、930延、松江新生港線、基隆路幹線、綠12、綠5、綠3、849屈尺社區、綠13   ，步行約1分鐘",
+        "parking": "無",
+        "accepted_items": "未拆封、有效期6個月以上且標示完整的可儲藏類食品。如：米、麵條、罐頭、食用油、調理包、保久乳、餅乾、沖泡飲、泡麵等。",
+        "notes": "捐贈前請先打電話確認。可以宅配或親送的方式捐贈物資。參考官網： https://www.ccf.org.tw/37/qa/MTk4 。",
+        "maps_url": "https://maps.apple/p/tDQ5cyU9-uMLaZ",
+        "update_time": "2026-01-29 17:10:00"
+      },
+      {
+        "name": "淡水服務處（服務處）",
+        "address": "251 新北市淡水區中正東路8-6號1樓",
+        "hours": "星期一～六 08:00~17:00",
+        "phone": "02-2626-7476",
+        "fax": "無",
+        "coordinates": [
+          25.1666689,
+          121.447744
+        ],
+        "transportation": "無",
+        "parking": "無",
+        "accepted_items": "未拆封、有效期6個月以上且標示完整的可儲藏類食品。如：米、麵條、罐頭、食用油、調理包、保久乳、餅乾、沖泡飲、泡麵等。",
+        "notes": "捐贈前請先打電話確認。可以宅配或親送的方式捐贈物資。參考官網： https://www.ccf.org.tw/37/qa/MTk4 。",
+        "maps_url": "https://maps.apple/p/RLAdvD7U5_wHAu",
+        "update_time": "2026-01-29 17:20:00"
+      },
+      {
+        "name": "苗栗家扶中心（中心）",
+        "address": "350 苗栗縣竹南鎮博愛街518號",
+        "hours": "星期一～六 08:00~17:00",
+        "phone": "037-461234",
+        "fax": "037-461235",
+        "coordinates": [
+          24.6906313,
+          120.8625904
+        ],
+        "transportation": "無",
+        "parking": "無",
+        "accepted_items": "請考量收到物資的家庭，並捐贈未拆封且在有效期限內的物資。",
+        "notes": "捐贈前請先打電話確認。可以宅配或親送的方式捐贈物資。參考官網： https://www.ccf.org.tw/42/donation/MTM0MA 。",
+        "maps_url": "https://maps.apple/p/eTku5RagvKTj-J",
+        "update_time": "2026-01-29 17:40:00"
+      },
+      {
+        "name": "苗栗服務處（服務處）",
+        "address": "360 苗栗市國華路776號",
+        "hours": "星期一～六 08:00~17:00",
+        "phone": "037-322400",
+        "fax": "無",
+        "coordinates": [
+          24.571865,
+          120.8145966
+        ],
+        "transportation": "無",
+        "parking": "無",
+        "accepted_items": "請考量收到物資的家庭，並捐贈未拆封且在有效期限內的物資。",
+        "notes": "捐贈前請先打電話確認。可以宅配或親送的方式捐贈物資。參考官網： https://www.ccf.org.tw/42/donation/MTM0MA 。",
+        "maps_url": "https://maps.apple/p/C~8A5Ngk_.ig.y",
+        "update_time": "2026-01-29 17:50:00"
+      },
+      {
+        "name": "苑裡服務處（服務處）",
+        "address": "358 苗栗縣苑裡鎮苑北里育才街10號",
+        "hours": "星期一～六 08:00~17:00",
+        "phone": "037-868266",
+        "fax": "無",
+        "coordinates": [
+          24.4466236,
+          120.6552579
+        ],
+        "transportation": "無",
+        "parking": "無",
+        "accepted_items": "請考量收到物資的家庭，並捐贈未拆封且在有效期限內的物資。",
+        "notes": "捐贈前請先打電話確認。可以宅配或親送的方式捐贈物資。參考官網： https://www.ccf.org.tw/42/donation/MTM0MA 。",
+        "maps_url": "https://maps.apple/p/zzuyiI5j4qIEmL",
+        "update_time": "2026-01-29 18:30:00"
+      },
+      {
+        "name": "北台中家扶中心（中心）",
+        "address": "420 台中市豐原區豐原大道三段199號",
+        "hours": "星期一～六 08:00~17:00",
+        "phone": "04-2523-2704",
+        "fax": "04-2523-2734",
+        "coordinates": [
+          24.2371047,
+          120.7260835
+        ],
+        "transportation": "無",
+        "parking": "無",
+        "accepted_items": "未拆封、有效期3個月以上且標示完整的可儲藏類食品。如：食用油、罐頭、醬油、蠔油、泡麵、麵條、常溫即使調理包、保久乳、肉鬆、魚鬆。",
+        "notes": "捐贈前請先打電話確認。可以宅配或親送的方式捐贈物資。參考官網： https://www.ccf.org.tw/24/donation/MzQw 。",
+        "maps_url": "https://maps.apple/p/VPiUiLJcE4chMn",
+        "update_time": "2026-01-30 13:30:00"
+      },
+      {
+        "name": "南台中家扶中心（中心）",
+        "address": "407 台中市西屯區甘肅路一段67號",
+        "hours": "星期一～六 08:00~17:00",
+        "phone": "04-2313-1234",
+        "fax": "04-2314-1819",
+        "coordinates": [
+          24.1659307,
+          120.6588748
+        ],
+        "transportation": "公車：中山國中 綠1、675、72 & 頂何厝（西屯路） 25、35、45、37、72",
+        "parking": "無",
+        "accepted_items": "未拆封、有效期6個月以上且標示完整的可儲藏類食品。如：保久乳、醬油、沙拉油、麵條、糖、鹽、罐頭、常溫調理包、食用油、米（真空包裝）。盡量小包裝以便分發。",
+        "notes": "捐贈前請先打電話確認。可以宅配或親送的方式捐贈物資。參考官網： https://www.ccf.org.tw/55/qa/MTI3MA 。",
+        "maps_url": "https://maps.apple/p/xc1XrISxmYGo3N",
+        "update_time": "2026-01-30 14:15:00"
+      },
+      {
+        "name": "雲林家扶中心（中心）",
+        "address": "632 雲林縣虎尾鎮公安路201號",
+        "hours": "星期一～六 08:00~17:00",
+        "phone": "05-6323200",
+        "fax": "05-6339595",
+        "coordinates": [
+          23.7103827,
+          120.432402
+        ],
+        "transportation": "無",
+        "parking": "無",
+        "accepted_items": "未拆封且未逾期的各種食品。如：米、麵條、罐頭、沙拉油、醬油等。",
+        "notes": "捐贈前請先打電話確認。可以宅配或親送的方式捐贈物資。參考官網： https://www.ccf.org.tw/73/donation/NDUx 。",
+        "maps_url": "https://maps.apple/p/kUrzG23Ff9yZmA",
+        "update_time": "2026-01-31 13:40:00"
+      },
+      {
+        "name": "北高雄家扶中心（中心）",
+        "address": "820 高雄市岡山區竹圍東街182巷12號",
+        "hours": "星期一～六 08:00~17:00",
+        "phone": "07-6213993",
+        "fax": "07-6212009",
+        "coordinates": [
+          22.7987661,
+          120.3037243
+        ],
+        "transportation": "無",
+        "parking": "無",
+        "accepted_items": "未拆封、有效期6個月以上且標示完整的可儲藏類食品。如：米、麵條、罐頭、醬油、油、保久乳、餅乾、沖泡飲、奶粉、泡麵等。",
+        "notes": "捐贈前請先打電話確認。可以宅配或親送的方式捐贈物資。參考官網： https://www.ccf.org.tw/31/donation/MTQ1Mw 。",
+        "maps_url": "https://maps.apple/p/MwEzbGff.y.5S~",
+        "update_time": "2026-01-31 14:00:00"
+      },
+      {
+        "name": "鳳山服務處（服務處）",
+        "address": "830 高雄市鳳山區建國路二段254號",
+        "hours": "星期一～六 08:00~17:00",
+        "phone": "07-7765080",
+        "fax": "無",
+        "coordinates": [
+          22.636493,
+          120.3575615
+        ],
+        "transportation": "公車：鳳山商工 紅33明誠幹線、橘7A",
+        "parking": "無",
+        "accepted_items": "未拆封、有效期6個月以上且標示完整的可儲藏類食品。如：米、麵條、罐頭、醬油、油、保久乳、餅乾、沖泡飲、奶粉、泡麵等。",
+        "notes": "捐贈前請先打電話確認。可以宅配或親送的方式捐贈物資。參考官網： https://www.ccf.org.tw/31/donation/MTQ1Mw 。",
+        "maps_url": "https://maps.apple/p/Y4P11FSu8oqcyt",
+        "update_time": "2026-01-31 14:00:00"
+      },
+      {
+        "name": "旗山服務處（服務處）",
+        "address": "842 高雄市旗山區中正路675號",
+        "hours": "星期一～六 08:00~17:00",
+        "phone": "07-6625104",
+        "fax": "無",
+        "coordinates": [
+          22.8982905,
+          120.4814742
+        ],
+        "transportation": "無",
+        "parking": "無",
+        "accepted_items": "未拆封、有效期6個月以上且標示完整的可儲藏類食品。如：米、麵條、罐頭、醬油、油、保久乳、餅乾、沖泡飲、奶粉、泡麵等。",
+        "notes": "捐贈前請先打電話確認。可以宅配或親送的方式捐贈物資。參考官網： https://www.ccf.org.tw/31/donation/MTQ1Mw 。",
+        "maps_url": "https://maps.apple/p/jFB4WPo_EG_6br",
+        "update_time": "2026-01-31 14:00:00"
+      },
+      {
+        "name": "大寮服務處（服務處）",
+        "address": "831 高雄市大寮區山頂路178號2樓",
+        "hours": "星期一～六 08:00~17:00",
+        "phone": "07-7822150",
+        "fax": "無",
+        "coordinates": [
+          22.6082469,
+          120.3885184
+        ],
+        "transportation": "無",
+        "parking": "無",
+        "accepted_items": "未拆封、有效期6個月以上且標示完整的可儲藏類食品。如：米、麵條、罐頭、醬油、油、保久乳、餅乾、沖泡飲、奶粉、泡麵等。",
+        "notes": "捐贈前請先打電話確認。可以宅配或親送的方式捐贈物資。參考官網： https://www.ccf.org.tw/31/donation/MTQ1Mw 。",
+        "maps_url": "https://maps.apple/p/M69mCbhY.HCTUJ",
+        "update_time": "2026-01-31 14:00:00"
+      },
+      {
+        "name": "宜蘭家扶中心（中心）",
+        "address": "260 宜蘭縣宜蘭市自強新路171號",
+        "hours": "星期一～六 08:00~17:00",
+        "phone": "03-9322591",
+        "fax": "03-9321277",
+        "coordinates": [
+          24.7477257,
+          121.7566928
+        ],
+        "transportation": "無",
+        "parking": "無",
+        "accepted_items": "未拆封、有效期1個月以上且標示完整的可儲藏類食品。如：米、麵條、米粉、罐頭、沙拉油、醬油、保久乳、沖泡飲、餅乾或泡麵等可儲藏食品。",
+        "notes": "捐贈前請先打電話確認。可以宅配或親送的方式捐贈物資。參考官網： https://www.ccf.org.tw/72/donation/MTMwMQ 。",
+        "maps_url": "https://maps.apple/p/vNhCxt43xTXIt4",
+        "update_time": "2026-01-31 14:19:59.808000"
+      },
+      {
+        "name": "羅東服務處（服務處）",
+        "address": "265 宜蘭縣羅東鎮純精路一段71號",
+        "hours": "星期一～六 08:00~17:00",
+        "phone": "03-9510333",
+        "fax": "無",
+        "coordinates": [
+          24.6697735,
+          121.7649177
+        ],
+        "transportation": "無",
+        "parking": "無",
+        "accepted_items": "未拆封、有效期1個月以上且標示完整的可儲藏類食品。如：米、麵條、米粉、罐頭、沙拉油、醬油、保久乳、沖泡飲、餅乾或泡麵等可儲藏食品。",
+        "notes": "捐贈前請先打電話確認。可以宅配或親送的方式捐贈物資。參考官網： https://www.ccf.org.tw/72/donation/MTMwMQ 。",
+        "maps_url": "https://maps.apple/p/WuZPpRFZJdfQN1",
+        "update_time": "2026-01-31 14:30:00"
+      },
+      {
+        "name": "頭城服務處（服務處）",
+        "address": "261 宜蘭縣頭城鎮纘祥路85號",
+        "hours": "星期一～六 08:00~17:00",
+        "phone": "03-9778577",
+        "fax": "無",
+        "coordinates": [
+          24.8597571,
+          121.8234568
+        ],
+        "transportation": "無",
+        "parking": "無",
+        "accepted_items": "未拆封、有效期1個月以上且標示完整的可儲藏類食品。如：米、麵條、米粉、罐頭、沙拉油、醬油、保久乳、沖泡飲、餅乾或泡麵等可儲藏食品。",
+        "notes": "捐贈前請先打電話確認。可以宅配或親送的方式捐贈物資。參考官網： https://www.ccf.org.tw/72/donation/MTMwMQ 。",
+        "maps_url": "https://maps.apple/p/LFTBju1B_~_N2g",
+        "update_time": "2026-01-31 14:30:00"
+      },
+      {
+        "name": "花蓮家扶中心（中心）",
+        "address": "970 花蓮縣花蓮市中興路75號",
+        "hours": "星期一～六 08:00~17:00",
+        "phone": "03-8236005",
+        "fax": "03-8236006",
+        "coordinates": [
+          23.9931018,
+          121.6294965
+        ],
+        "transportation": "無",
+        "parking": "無",
+        "accepted_items": "見「備註」。",
+        "notes": "詳情見： https://www.ccf.org.tw/28/donation/Njcx 以及 https://www.ccf.org.tw/28/donation/OTc0 。",
+        "maps_url": "https://maps.apple/p/CcJJhDnCMP0aGZ",
+        "update_time": "2026-01-31 14:45:00"
+      },
+      {
+        "name": "金門家扶中心（中心）",
+        "address": "892 金門縣金寧鄉環島北路二段579號",
+        "hours": "星期一～六 08:00~17:00",
+        "phone": "082-326139",
+        "fax": "082-372638",
+        "coordinates": [
+          24.4517189,
+          118.3481379
+        ],
+        "transportation": "無",
+        "parking": "無",
+        "accepted_items": "未拆封且未逾期的各種食品。如：米、麵條、罐頭、沙拉油、醬油等。保存期限越久越好以便分發，且較為保險。",
+        "notes": "捐贈前請先打電話確認。可以宅配或親送的方式捐贈物資。參考官網： https://www.ccf.org.tw/34/donation/MzAy 。",
+        "maps_url": "https://maps.apple/p/N2DueP2KLIQhMX",
+        "update_time": "2026-01-31 15:00:00"
+      }
+    ]
+  },
+  {
     "org": "芥菜種會",
-    "branches": []
+    "branches": [
+      {
+        "name": "總機（未知）",
+        "address": "無",
+        "hours": "星期一～五 8:30~17:30",
+        "phone": "02-7741-6000、02-7730-9292",
+        "fax": "02-2999-7215",
+        "coordinates": [
+          0,
+          0
+        ],
+        "transportation": "無",
+        "parking": "無",
+        "accepted_items": "未知",
+        "notes": "請在捐贈前，打電話至芥菜種會確認目前需要的物資，以便送到更有需要的人手中。確認完畢、準備完畢後，再確認捐贈地址、需求。",
+        "maps_url": "https://maps.apple/p/qsqK95JivBxwWn",
+        "update_time": "2026-01-29 13:45:00.288000"
+      }
+    ]
+  },
+  {
+    "org": "臻佶祥",
+    "branches": [
+      {
+        "name": "南機場（食物銀行）",
+        "address": "100 台北市中正區中華路二段301巷12號1樓",
+        "hours": "星期一、三、五 13:30~19:00",
+        "phone": "02-2332-9974",
+        "fax": "無",
+        "coordinates": [
+          25.0296566,
+          121.5050699
+        ],
+        "transportation": "公車：廈安里 223、12、藍29、671、670、20、212、中山幹線、604、307西藏三民、205、253、673、604、249",
+        "parking": "無",
+        "accepted_items": "有效期限三個月以上的食品。",
+        "notes": "有關食物銀行： https://www.jjs.org.tw/food-bank 。",
+        "maps_url": "https://maps.apple/p/PfG54Ht6RrwcoW",
+        "update_time": "2026-01-31 15:20:00"
+      }
+    ]
   }
 ]

@@ -44,8 +44,8 @@ for sheet in wb.worksheets:
             "phone": row[4],
             "fax": row[5],
             "coordinates": [
-                float(row[3].split(",")[0]),
-                float(row[3].split(",")[1])
+                float(row[3].split(",")[0]) if row[3] != "無" else 0,
+                float(row[3].split(",")[1]) if row[3] != "無" else 0
             ],
             "transportation": row[7],
             "parking": row[8],
