@@ -1,0 +1,67 @@
+{
+  "last_updated": "2025-07-05",
+  "people": [
+    {
+      "name": "Albert Huang",
+      "role": {
+        "en": "Developer",
+        "zh-Hant": "做 App 的人"
+      },
+      "url": "https://github.com/Albair581"
+    },
+    {
+      "name": "Maggie Wan",
+      "role": {
+        "en": "Biggest Supporter",
+        "zh-Hant": "支撐整個 App 的人"
+      },
+      "url": null
+    },
+    {
+      "name": "Teacher Kevin",
+      "role": {
+        "en": "Project Teacher & TestFlight Tester",
+        "zh-Hant": "專案指導老師 & 公測參與者"
+      },
+      "url": null
+    },
+    {
+      "name": "Sophia, Jack, Amber",
+      "role": {
+        "en": "Project Classmates",
+        "zh-Hant": "專案組別同學"
+      },
+      "url": null
+    },
+    {
+      "name": "Eve Lin",
+      "role": {
+        "en": "TestFlight Tester",
+        "zh-Hant": "公測參與者"
+      },
+      "url": null
+    },
+    {
+      "name": "梅子",
+      "role": {
+        "en": "TestFlight Tester",
+        "zh-Hant": "公測參與者"
+      },
+      "url": null
+    }
+  ],
+  "libraries": [
+    {
+      "name": "GoogleSignIn-iOS",
+      "author": "Google LLC",
+      "license": "Apache 2.0",
+      "url": "https://github.com/google/GoogleSignIn-iOS"
+    },
+    {
+      "name": "swift-markdown-ui",
+      "author": "Guille Gonzalez",
+      "license": "MIT",
+      "url": "https://github.com/gonzalezreal/swift-markdown-ui"
+    }
+  ]
+}
