@@ -18,7 +18,7 @@
       "url": null
     },
     {
-      "name": "Teacher Kevin",
+      "name": "Teacher Kevin Chang",
       "role": {
         "en": "Project Teacher & TestFlight Tester",
         "zh-Hant": "專案指導老師 & 公測參與者"
@@ -43,6 +43,46 @@
     },
     {
       "name": "梅子",
+      "role": {
+        "en": "TestFlight Tester",
+        "zh-Hant": "公測參與者"
+      },
+      "url": null
+    },
+    {
+      "name": "Annie",
+      "role": {
+        "en": "TestFlight Tester",
+        "zh-Hant": "公測參與者"
+      },
+      "url": null
+    },
+    {
+      "name": "Maggie Chen",
+      "role": {
+        "en": "TestFlight Tester",
+        "zh-Hant": "公測參與者"
+      },
+      "url": null
+    },
+    {
+      "name": "Nancy",
+      "role": {
+        "en": "TestFlight Tester",
+        "zh-Hant": "公測參與者"
+      },
+      "url": null
+    ,
+    {
+      "name": "Lucille Flores",
+      "role": {
+        "en": "TestFlight Tester",
+        "zh-Hant": "公測參與者"
+      },
+      "url": null
+    },
+    {
+      "name": "廖玉蘋",
       "role": {
         "en": "TestFlight Tester",
         "zh-Hant": "公測參與者"
