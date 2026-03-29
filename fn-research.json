@@ -5761,10 +5761,438 @@
         ],
         "transportation": "公車：廈安里 223、12、藍29、671、670、20、212、中山幹線、604、307西藏三民、205、253、673、604、249",
         "parking": "無",
-        "accepted_items": "有效期限三個月以上的食品。",
+        "accepted_items": "有效期限三個月以上的食品（乾糧類）、水果和蔬菜、當天的熟食（如拜拜的三牲）",
         "notes": "有關食物銀行： https://www.jjs.org.tw/food-bank 。",
         "maps_url": "https://maps.apple/p/PfG54Ht6RrwcoW",
         "update_time": "2026-01-31 15:20:00"
+      }
+    ]
+  },
+  {
+    "org": "新生活",
+    "branches": [
+      {
+        "name": "廚務組（廚房）",
+        "address": "252 新北市三芝區埔頭里埔頭43-1號",
+        "hours": "星期一～五 08:00~17:00",
+        "phone": "02-2636-2978",
+        "fax": "無",
+        "coordinates": [
+          25.2615701,
+          121.499069
+        ],
+        "transportation": "無",
+        "parking": "無",
+        "accepted_items": "有效期限一個月以上的食品，接受常溫及冷藏。",
+        "notes": "無",
+        "maps_url": "https://maps.apple/p/Tak1~QvUcwbsZh",
+        "update_time": "2026-02-02 14:20:00"
+      }
+    ]
+  },
+  {
+    "org": "新漾",
+    "branches": [
+      {
+        "name": "食愛銀行（食物銀行）",
+        "address": "103 台北市大同區敦煌路86號",
+        "hours": "星期二～六 10:00~18:00",
+        "phone": "02-2598-0103",
+        "fax": "無",
+        "coordinates": [
+          25.0757658,
+          121.5173082
+        ],
+        "transportation": "無",
+        "parking": "無",
+        "accepted_items": "米、麵條、泡麵、冬粉、米粉、罐頭、調理包、肉鬆、保久乳、花生糖、八寶粥、沖泡穀粉、燕麥片、調味料、食用油、鹽、糖、營養飲品、零食、成人奶粉、常溫飲品。捐贈前至官網確認尚缺的物資（連結見「備註」）。",
+        "notes": "官網： https://www.xinyoung.org/foodneed 。捐贈請填寫表單： https://docs.google.com/forms/d/e/1FAIpQLScQCp_o_oIXdywM1HdEEEuKQq11he_oxj1NYZeU2S0__5gCWQ/viewform 。",
+        "maps_url": "https://maps.apple/p/HdE-4jmTePAoI7",
+        "update_time": "2026-02-02 12:00:00"
+      },
+      {
+        "name": "新漾辦公室（辦事處）",
+        "address": "103 台北市大同區承德路三段232號B1、B2",
+        "hours": "星期二～六 10:00~18:00",
+        "phone": "02-2598-0103",
+        "fax": "無",
+        "coordinates": [
+          25.0723272,
+          121.5185032
+        ],
+        "transportation": "無",
+        "parking": "無",
+        "accepted_items": "米、麵條、泡麵、冬粉、米粉、罐頭、調理包、肉鬆、保久乳、花生糖、八寶粥、沖泡穀粉、燕麥片、調味料、食用油、鹽、糖、營養飲品、零食、成人奶粉、常溫飲品。捐贈前至官網確認尚缺的物資（連結見「備註」）。",
+        "notes": "官網： https://www.xinyoung.org/foodneed 。捐贈請填寫表單： https://docs.google.com/forms/d/e/1FAIpQLScQCp_o_oIXdywM1HdEEEuKQq11he_oxj1NYZeU2S0__5gCWQ/viewform 。",
+        "maps_url": "https://maps.apple/p/H~cZeMqyAy5Dnc",
+        "update_time": "2026-02-02 12:00:00"
+      }
+    ]
+  },
+  {
+    "org": "興毅",
+    "branches": [
+      {
+        "name": "台北忠信（食物銀行）",
+        "address": "116 台北市文山區興隆路四段42巷3號1樓",
+        "hours": "星期一、三、五 9:30~17:00",
+        "phone": "02-2936-3199",
+        "fax": "無",
+        "coordinates": [
+          24.9881018,
+          121.5599878
+        ],
+        "transportation": "無",
+        "parking": "無",
+        "accepted_items": "單包裝、好分發，保存期限一週以上，冷藏、冷凍、生鮮、乾貨皆可。",
+        "notes": "捐贈前可以打電話詢問。",
+        "maps_url": "https://maps.apple/p/5dM.tSXmWjHdkN",
+        "update_time": "2026-02-03 10:00:00"
+      },
+      {
+        "name": "新北忠信（食物銀行）",
+        "address": "242 新北市新莊區新北大道七段385號",
+        "hours": "星期一、三、五 10:00~12:00，14:00~16:00",
+        "phone": "02-2202-8863",
+        "fax": "無",
+        "coordinates": [
+          25.0262494,
+          121.4127351
+        ],
+        "transportation": "無",
+        "parking": "無",
+        "accepted_items": "單包裝、好分發，保存期限一週以上，冷藏、冷凍、生鮮、乾貨皆可。",
+        "notes": "捐贈前可以打電話詢問。",
+        "maps_url": "https://maps.apple/p/Y0sg1qxuE.ECQG",
+        "update_time": "2026-02-03 10:00:00"
+      },
+      {
+        "name": "台南忠信（食物銀行）",
+        "address": "745 台南市安定區新吉里125之16號1棟",
+        "hours": "星期一、三、五 9:30~11:30，14:00~16:30",
+        "phone": "06-593-2882",
+        "fax": "無",
+        "coordinates": [
+          23.0822613,
+          120.2120724
+        ],
+        "transportation": "無",
+        "parking": "無",
+        "accepted_items": "單包裝、好分發，保存期限一週以上，冷藏、冷凍、生鮮、乾貨皆可。",
+        "notes": "捐贈前可以打電話詢問。",
+        "maps_url": "https://maps.apple/p/Zj0z_X3_gnVHmI",
+        "update_time": "2026-02-03 10:00:00"
+      }
+    ]
+  },
+  {
+    "org": "食物分享冰箱",
+    "branches": [
+      {
+        "name": "南港舊莊站（社區發展協會）",
+        "address": "115 台北市南港區舊莊街一段199巷11弄8號",
+        "hours": "平日14:30以後",
+        "phone": "0931-518-686",
+        "fax": "無",
+        "coordinates": [
+          25.0397418,
+          121.6222591
+        ],
+        "transportation": "公車：「舊莊站」站 823、F901、市民小巴6，步行約2到3分鐘",
+        "parking": "無",
+        "accepted_items": "新鮮度夠的生鮮食品，包裝要完整，且要在保存期限內。",
+        "notes": "建議於14:30後，才有志工。建議先打電話確認捐贈以及捐贈品項。由台北南港舊莊社區發展協會經營。",
+        "maps_url": "https://maps.apple/p/i~DbKwQh_1Jfho",
+        "update_time": "2026-03-29 09:30:00"
+      },
+      {
+        "name": "大安德安站（其他）",
+        "address": "106 台北市大安區四維路52巷24弄5號",
+        "hours": "打電話確認",
+        "phone": "02-2553-0828",
+        "fax": "無",
+        "coordinates": [
+          25.0348185,
+          121.5465761
+        ],
+        "transportation": "無",
+        "parking": "無",
+        "accepted_items": "未過期的食品都可，包括各種物資、生鮮食品等。",
+        "notes": "建議打電話確認營業時間。由台灣國際飢餓對策協會經營。",
+        "maps_url": "https://maps.apple/p/tyM6Z.zg7FeTjQ",
+        "update_time": "2026-03-29 09:30:00"
+      },
+      {
+        "name": "大同雙連站（其他）",
+        "address": "103 台北市大同區歸綏街79之6號",
+        "hours": "打電話確認",
+        "phone": "02-2553-0828",
+        "fax": "無",
+        "coordinates": [
+          25.059035,
+          121.5166704
+        ],
+        "transportation": "無",
+        "parking": "無",
+        "accepted_items": "未過期的食品都可，包括各種物資、生鮮食品等。",
+        "notes": "建議打電話確認營業時間。由軒轅教經營。",
+        "maps_url": "https://maps.apple/p/3Sn98LnfUC9kIV",
+        "update_time": "2026-03-29 09:30:00"
+      },
+      {
+        "name": "信義黎安站（其他）",
+        "address": "110 台北市信義區和平東路3段559號",
+        "hours": "週一、三、五 13:30~19:30",
+        "phone": "02-8732-8814",
+        "fax": "無",
+        "coordinates": [
+          25.0157883,
+          121.5613604
+        ],
+        "transportation": "公車：「麟光站」站 282、市民小巴7、72、680、685、758、902、902區、小30、和平幹線、敦化幹線",
+        "parking": "無",
+        "accepted_items": "乾糧類：三個月以上保存期限。生鮮類：水果、蔬菜、當天的熟食等。",
+        "notes": "由臻佶祥社會服務協會經營。",
+        "maps_url": "https://maps.apple/p/0FugMWo-mYAcSS",
+        "update_time": "2026-03-29 12:40:00"
+      },
+      {
+        "name": "石門老梅站（其他）",
+        "address": "253 新北市石門區老梅里老梅路29號",
+        "hours": "打電話確認",
+        "phone": "02-2636-2978",
+        "fax": "無",
+        "coordinates": [
+          25.2895786,
+          121.5447709
+        ],
+        "transportation": "公車：老梅站 862、863，步行約2分鐘",
+        "parking": "無",
+        "accepted_items": "保存期限一個月以上即可。",
+        "notes": "建議打電話確認營業時間。「益棧」。由新生活社會褔利發展促進會經營。",
+        "maps_url": "https://maps.apple/p/rZeqmHk_H83XwX",
+        "update_time": "2026-03-29 13:00:00"
+      },
+      {
+        "name": "三芝埔頭站（其他）",
+        "address": "252 新北市三芝區中興街一段31號1樓",
+        "hours": "打電話確認",
+        "phone": "02-2636-2978",
+        "fax": "無",
+        "coordinates": [
+          25.2581097,
+          121.4973964
+        ],
+        "transportation": "無",
+        "parking": "無",
+        "accepted_items": "保存期限一個月以上即可。",
+        "notes": "建議打電話確認營業時間。由新生活社會褔利發展促進會經營。",
+        "maps_url": "https://maps.apple/p/eDYKxnkFrI15HA",
+        "update_time": "2026-03-29 14:00:00"
+      },
+      {
+        "name": "永和名族站（社區發展協會）",
+        "address": "234 新北市永和區民權路60號4樓",
+        "hours": "打電話確認",
+        "phone": "02-2949-2984",
+        "fax": "無",
+        "coordinates": [
+          24.998543,
+          121.520029
+        ],
+        "transportation": "無",
+        "parking": "無",
+        "accepted_items": "能吃的都可以，只要狀態良好。備有冷藏、冷凍設備。",
+        "notes": "建議打電話確認營業時間。由新北永和民權社區發展協會經營。",
+        "maps_url": "https://maps.apple/p/FMB5ebWddZ4jPL",
+        "update_time": "2026-03-29 14:15:00"
+      },
+      {
+        "name": "蘆洲仁復站（社區發展協會）",
+        "address": "247 新北市蘆洲區中山二路36巷7號",
+        "hours": "週一到週五 9:00~12:00",
+        "phone": "02-8285-7595",
+        "fax": "無",
+        "coordinates": [
+          25.0826388,
+          121.4742974
+        ],
+        "transportation": "無",
+        "parking": "無",
+        "accepted_items": "不要牛肉，要新鮮的食物都可。具備冷凍冰箱。",
+        "notes": "由新北市蘆洲區仁復社區發展協會經營。",
+        "maps_url": "https://maps.apple/p/wdb~h72vCEnf02",
+        "update_time": "2026-03-29 14:20:00"
+      },
+      {
+        "name": "瑞芳新峰站（社區發展協會）",
+        "address": "不清楚 -- 打電話確認地址",
+        "hours": "週三 17:00~18:30",
+        "phone": "0936-941-070",
+        "fax": "無",
+        "coordinates": [
+          0,
+          0
+        ],
+        "transportation": "無",
+        "parking": "無",
+        "accepted_items": "不要肉類，接受蛋奶素、蔬果、乾貨。",
+        "notes": "由基隆市暖暖區碇內社區發展協會經營。",
+        "maps_url": "https://spot.line.me/detail/713177278254686078",
+        "update_time": "2026-03-29 14:45:00"
+      },
+      {
+        "name": "暖暖碇內站（社區發展協會）",
+        "address": "205 基隆市暖暖區暖碇路15巷136號",
+        "hours": "週一到週五 8:00~17:00",
+        "phone": "0936-941-070",
+        "fax": "無",
+        "coordinates": [
+          25.0959921,
+          121.7537027
+        ],
+        "transportation": "無",
+        "parking": "無",
+        "accepted_items": "接受蛋奶素、蔬果、乾貨、冷藏、冷凍、麵包等。",
+        "notes": "由基隆市暖暖區碇內社區發展協會經營。",
+        "maps_url": "https://maps.apple/p/YBUQhyE9G1.5KS",
+        "update_time": "2026-03-29 17:50:00"
+      },
+      {
+        "name": "安樂樂一站（社區發展協會）",
+        "address": "204 基隆市安樂區樂一路28巷19號",
+        "hours": "平日都可",
+        "phone": "0911-897-160",
+        "fax": "無",
+        "coordinates": [
+          25.1309784,
+          121.7336267
+        ],
+        "transportation": "無",
+        "parking": "無",
+        "accepted_items": "能吃的都可，狀態要良好。",
+        "notes": "若無人在，可以先用袋子裝並掛在門口，再打電話請人來收。由基隆市安樂區樂一社區發展協會經營。",
+        "maps_url": "https://maps.apple/p/5nR6AcdX-8xsYP",
+        "update_time": "2026-03-29 18:20:00"
+      },
+      {
+        "name": "中正建國站（其他）",
+        "address": "202 基隆市中正區祥豐街345號",
+        "hours": "打電話確認",
+        "phone": "0921-929-198",
+        "fax": "無",
+        "coordinates": [
+          25.1449206,
+          121.767903
+        ],
+        "transportation": "無",
+        "parking": "無",
+        "accepted_items": "乾糧、冷凍、生鮮都可。",
+        "notes": "建議打電話確認營業時間。由基隆市心蘭愛鄉生活發展協會經營。",
+        "maps_url": "https://maps.apple/p/~AtXwD7kgvC4RY",
+        "update_time": "2026-03-29 18:20:00"
+      },
+      {
+        "name": "信義東明站（社區發展協會）",
+        "address": "201 基隆市信義區東信路35巷1號",
+        "hours": "建議平日捐贈",
+        "phone": "02-2468-5839",
+        "fax": "無",
+        "coordinates": [
+          25.1273514,
+          121.7671594
+        ],
+        "transportation": "無",
+        "parking": "無",
+        "accepted_items": "食物新鮮就可以。",
+        "notes": "建議打電話確認營業時間。由基隆市信義區東明社區發展協會經營。",
+        "maps_url": "https://maps.apple/p/XYJjKf6msIvQtj",
+        "update_time": "2026-03-29 18:20:00"
+      },
+      {
+        "name": "基隆中山站（辦事處）",
+        "address": "203 基隆市中正區中山一路189巷34號1樓",
+        "hours": "打電話確認",
+        "phone": "0903-103-504",
+        "fax": "無",
+        "coordinates": [
+          25.1336559,
+          121.7385397
+        ],
+        "transportation": "無",
+        "parking": "無",
+        "accepted_items": "接受乾糧、即期品捐贈。",
+        "notes": "建議打電話確認營業時間。由基隆市中山區中山里辦公處經營。",
+        "maps_url": "https://maps.apple/p/LyxBDVHsecZhyK",
+        "update_time": "2026-03-29 19:00:00"
+      },
+      {
+        "name": "暖暖暖西站（辦事處）",
+        "address": "205 基隆市暖暖區東勢街8-25號",
+        "hours": "打電話確認",
+        "phone": "0938-677-562",
+        "fax": "無",
+        "coordinates": [
+          25.095023,
+          121.738622
+        ],
+        "transportation": "無",
+        "parking": "無",
+        "accepted_items": "食物都可以，冷藏、冷凍設備皆有。",
+        "notes": "建議打電話確認營業時間。由基隆市暖暖區暖西里辦公處經營。",
+        "maps_url": "https://maps.apple/p/-wwwhEbBw756WC",
+        "update_time": "2026-03-29 19:15:00"
+      },
+      {
+        "name": "暖暖過港站（社區發展協會）",
+        "address": "205 基隆市暖暖區過港路54號",
+        "hours": "週一到週五 8:00~17:00",
+        "phone": "0937-865-484",
+        "fax": "無",
+        "coordinates": [
+          25.1047924,
+          121.7382504
+        ],
+        "transportation": "無",
+        "parking": "無",
+        "accepted_items": "能吃的都可以，只要狀態良好。",
+        "notes": "由基隆市暖暖區過港社區發展協會經營。",
+        "maps_url": "https://maps.apple/p/skp0wBEhI2dnBC",
+        "update_time": "2026-03-29 19:20:00"
+      },
+      {
+        "name": "仁愛明德站（其他）",
+        "address": "200 基隆市仁愛區自來街27號",
+        "hours": "打電話確認",
+        "phone": "0930-943-050",
+        "fax": "無",
+        "coordinates": [
+          25.128418,
+          121.738443
+        ],
+        "transportation": "無",
+        "parking": "無",
+        "accepted_items": "什麼都可以。",
+        "notes": "建議打電話確認營業時間。由達摩愛心會經營。",
+        "maps_url": "https://maps.apple/p/roFLCQ1yxnXI60",
+        "update_time": "2026-03-29 19:30:00"
+      },
+      {
+        "name": "安樂壯觀站（辦事處）",
+        "address": "204 基隆市安樂區樂麗二街62巷282號B1",
+        "hours": "打電話確認",
+        "phone": "0982-235-765",
+        "fax": "無",
+        "coordinates": [
+          25.121375,
+          121.7154896
+        ],
+        "transportation": "無",
+        "parking": "無",
+        "accepted_items": "能吃的都可以，狀態良好即可。接受各種冷藏、冷凍、乾糧食品。",
+        "notes": "建議打電話確認營業時間。由基隆市安樂區壯觀里里辦公處經營。",
+        "maps_url": "https://maps.apple/p/2o29Gn0-tGCRZD",
+        "update_time": "2026-03-29 19:30:00"
       }
     ]
   }
