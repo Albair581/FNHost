@@ -88,6 +88,14 @@
         "zh-Hant": "公測參與者"
       },
       "url": null
+    },
+    {
+      "name": "User 1 (Anonymous)",
+      "role": {
+        "en": "TestFlight Tester",
+        "zh-Hant": "公測參與者"
+      },
+      "url": null
     }
   ],
   "libraries": [
