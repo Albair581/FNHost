@@ -1,5 +1,5 @@
 {
-  "underMaintenance": true,
+  "underMaintenance": false,
   "messageEN": "We are updating bug fixes on the server, we'll be back shortly.",
   "messageZH": "我們正在更新伺服器、修理問題，稍後回來。",
   "estimatedBackTimeISO8601": "2026-04-19T10:00:00Z"
