@@ -2,7 +2,7 @@
   "underMaintenance": true,
   "messageEN": "All our services will be temporarily unavailable due to server upgrade.",
   "messageZH": "我們所有的服務暫時暫停服務，我們正在更新伺服器設備及軟體。",
-  "estimatedBackTimeISO8601": "2026-06-04T12:40:00Z",
+  "estimatedBackTimeISO8601": "2026-06-04T13:00:00Z",
   "template": {
     "underMaintenance": false,
     "messageEN": "All our services are available and stable.",
