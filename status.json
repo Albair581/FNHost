@@ -1,5 +1,5 @@
 {
-  "underMaintenance": true,
+  "underMaintenance": false,
   "messageEN": "We are updating our server software.",
   "messageZH": "我們正在更新伺服器軟體。",
   "estimatedBackTimeISO8601": "2026-06-14T01:00:00Z",
