@@ -1,7 +1,7 @@
 {
-  "underMaintenance": false,
-  "messageEN": "We are fixing a bug...",
-  "messageZH": "我們正在修復一個問題...",
+  "underMaintenance": true,
+  "messageEN": "We are giving a security update to our server.",
+  "messageZH": "我們正在更新伺服器。",
   "estimatedBackTimeISO8601": "2026-06-16T09:00:00Z",
   "template": {
     "underMaintenance": false,
